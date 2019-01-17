@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drod217/Mongoose-Scraper.git"
+    "url": "git+https://github.com/sdh0192/mongo-scraper.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Drod217/Mongoose-Scraper/issues"
+    "url": "https://github.com/sdh0192/mongo-scraper/issues"
   },
-  "homepage": "https://github.com/Drod217/Mongoose-Scraper#readme",
+  "homepage": "https://github.com/sdh0192/mongo-scraper#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
